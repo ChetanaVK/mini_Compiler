@@ -1,6 +1,6 @@
 # Mini Compiler for the C++ programming language
 
-Project Aim: To design a Mini Compiler for the C++ programming language which focuses on generating an optimized intermediate code for the C++ source code having specific constructs.
+Goal: To design a Mini Compiler for the C++ programming language which focuses on generating an optimized intermediate code for the C++ source code having specific constructs.
 
 Works for constructs such as conditional statements, loops and ternary operator.
 
